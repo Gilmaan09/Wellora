@@ -30,25 +30,25 @@ A full-stack mental wellness platform that helps users track moods, perform mind
 ## 📸 Screenshots
 
 ### Home Page
-![Home](frontend/public/screenshots/home.png)
+![Home](frontend/public/screenshots/)
 
 ### AI-Assistant
-![AI-Assistant](frontend/public/screenshots/AI_Assistant.png)
+![AI-Assistant](frontend/public/screenshots/)
 
 ### Dashboard
-![Dashboard](frontend/public/screenshots/dashboard.png)
+![Dashboard](frontend/public/screenshots/)
 
 ### Exercises
-![Exercises](frontend/public/screenshots/exercises.png)
+![Exercises](frontend/public/screenshots/)
 
 ### Mood Tracker
-![Mood](frontend/public/screenshots/mood.png)
+![Mood](frontend/public/screenshots/)
 
 ### Community Support
-![Community Support](frontend/public/screenshots/community.png)
+![Community Support](frontend/public/screenshots/)
 
 ### Profile
-![Profile](frontend/public/screenshots/profile.png)
+![Profile](frontend/public/screenshots/)
 
 ## 🛠 Tech Stack
 
