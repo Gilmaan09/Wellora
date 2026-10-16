@@ -38,7 +38,7 @@ const Layout = () => {
       {/* Sidebar */}
       <aside className={`sidebar ${mobileOpen ? 'open' : ''}`}>
         <div className="sidebar-logo">
-          <h1> Mind<span>mingle</span></h1>
+          <h1> Wellora</h1>
           <p>Your wellness companion</p>
         </div>
 

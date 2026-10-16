@@ -33,7 +33,7 @@
 //     setLoading(true);
 //     try {
 //       await register(form.name, form.email, form.password, form.gender, form.dob);
-//       toast.success('Account created! Welcome to Mindmingle 🌱');
+//       toast.success('Account created! Welcome to Wellora 🌱');
 //       navigate('/login');
 //     } catch (err) {
 //       toast.error(err.response?.data?.message || 'Registration failed');
@@ -63,7 +63,7 @@
 //     {/* <div className="auth-page"> */}
 //       <div className="auth-card">
 //         <div className="auth-logo">
-//           <h1>Mind<span>mingle</span></h1>
+//           <h1>Wellora</h1>
 //           <p>Begin your mindfulness journey today</p>
 //         </div>
 
@@ -315,7 +315,7 @@ try {
 
   await register(form.name, form.email, form.password, form.gender, form.dob);
 
-  toast.success('Account created! Welcome to Mindmingle 🌱');
+  toast.success('Account created! Welcome to Wellora 🌱');
 
   navigate('/login');
 
@@ -353,7 +353,7 @@ cursor: 'pointer'
 <div className="auth-card">
 
 <div className="auth-logo">
-<h1>Mind<span>mingle</span></h1>
+<h1>Wellora</h1>
 <p>Begin your mindfulness journey today</p>
 </div>
 

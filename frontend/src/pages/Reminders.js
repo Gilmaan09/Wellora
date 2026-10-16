@@ -35,7 +35,7 @@ const Reminders = () => {
   //         reminder.isActive &&
   //         reminder.time === currentTime
   //       ) {
-  //         new Notification("MindMingle Reminder 🔔", {
+  //         new Notification("Wellora Reminder 🔔", {
   //           body: reminder.message,
   //         });
   //       }
@@ -61,7 +61,7 @@ const Reminders = () => {
             (reminder.frequency === 'custom' && reminder.days.includes(today))
           )
         ) {
-          new Notification("MindMingle Reminder 🔔", {
+          new Notification("Wellora Reminder 🔔", {
             body: reminder.message,
           });
         }

@@ -261,7 +261,7 @@ const Navbar = ({ onLogin, onSignup, scrolled,isMobile }) => {
           fontFamily: 'Cormorant Garamond, serif',
           fontSize: '1.35rem', fontWeight: '600',
           color: 'var(--charcoal)', letterSpacing: '0.01em',
-        }}>Mindmingle</span>
+        }}>Wellora</span>
       </div>
 
       {/* Links */}
@@ -361,7 +361,7 @@ const Hero = ({ onSignup,isMobile }) => (
           fontWeight: '300',
           animation: 'fadeUp 0.9s ease 0.25s both',
         }}>
-          Mindmingle guide you toward lasting peace of mind through personalized
+          Wellora guide you toward lasting peace of mind through personalized
           mindfulness sessions, gentle reminders, mood tracking, and
           a warm community — all in one beautiful space.
         </p>
@@ -684,12 +684,12 @@ const HowItWorks = ({ onSignup,isMobile }) => (
 // ─── Testimonials ─────────────────────────────────────────────────────────
 const Testimonials = (isMobile) => {
   const testimonials = [
-    { name: 'Priya M.', role: 'Yoga instructor', color: '#A8C5B0', text: 'Mindmingle changed my mornings completely. The gentle reminders feel like a warm nudge from a friend, not an alarm.', stars: 5 },
+    { name: 'Priya M.', role: 'Yoga instructor', color: '#A8C5B0', text: 'Wellora changed my mornings completely. The gentle reminders feel like a warm nudge from a friend, not an alarm.', stars: 5 },
     { name: 'James K.', role: 'Software engineer', color: '#7AAD8A', text: 'I was skeptical at first, but the mood tracking opened my eyes to patterns I never noticed. My anxiety is down measurably.', stars: 5 },
     { name: 'Sofia R.', role: 'Student', color: '#C4846A', text: 'The sleep rituals section is pure magic. I fall asleep faster and wake up actually rested. Can\'t live without it now.', stars: 5 },
     { name: 'Arjun T.', role: 'Entrepreneur', color: '#D4A843', text: 'As someone with a chaotic schedule, the 5-minute mindfulness sessions are exactly what I needed. Fits perfectly into my day.', stars: 5 },
     { name: 'Mei L.', role: 'Healthcare worker', color: '#9B8EC4', text: 'The community circles gave me a safe space to talk about burnout. I found so much support from people who truly get it.', stars: 5 },
-    { name: 'David O.', role: 'Teacher', color: '#5BBCB0', text: 'I\'ve tried many wellness apps but Mindmingle feels different — it\'s human, warm, and actually understands how I\'m feeling.', stars: 5 },
+    { name: 'David O.', role: 'Teacher', color: '#5BBCB0', text: 'I\'ve tried many wellness apps but Wellora feels different — it\'s human, warm, and actually understands how I\'m feeling.', stars: 5 },
   ];
 
   return (
@@ -796,7 +796,7 @@ const Footer = ({ onLogin, onSignup,isMobile }) => (
             <span style={{
               fontFamily: 'Cormorant Garamond, serif', fontSize: '1.2rem',
               fontWeight: '600', color: '#fff',
-            }}>Mindmingle</span>
+            }}>Wellora</span>
           </div>
           <p style={{ fontSize: '0.85rem', lineHeight: 1.7, maxWidth: '240px' }}>
             Your daily companion for mindfulness, calm, and inner clarity.
@@ -816,7 +816,7 @@ const Footer = ({ onLogin, onSignup,isMobile }) => (
         ))}
       </div>
       <div style={{ borderTop: '1px solid rgba(255,255,255,0.1)', paddingTop: '24px', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '12px' }}>
-        <p style={{ fontSize: '0.78rem' }}>© 2025 Mindmingle. All rights reserved.</p>
+        <p style={{ fontSize: '0.78rem' }}>© 2025 Wellora. All rights reserved.</p>
         <div style={{ display: 'flex', gap: '16px' }}>
           <span style={{ cursor: 'pointer', fontSize: '0.78rem' }} onClick={onLogin}>Log in</span>
           <span style={{ cursor: 'pointer', fontSize: '0.78rem', color: '#A8C5B0', fontWeight: '600' }} onClick={onSignup}>Sign up free</span>

@@ -1,7 +1,7 @@
 {
-  "name": "mindmingle",
+  "name": "Wellora",
   "version": "1.0.0",
-  "description": "Mindmingle - Mental wellness MERN app",
+  "description": "Wellora - Mental wellness MERN app",
   "scripts": {
     "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
     "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm start\"",

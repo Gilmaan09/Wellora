@@ -1,4 +1,4 @@
-# 🧠 MindMingle – Smart Mental Wellness Platform with AI Assistant
+# 🧠 Wellora – Smart Mental Wellness Platform with AI Assistant
 
 A full-stack mental wellness platform that helps users track moods, perform mindfulness exercises, and engage in a supportive community.
 
@@ -68,7 +68,7 @@ A full-stack mental wellness platform that helps users track moods, perform mind
 ## 📁 Project Structure
 
 ```
-mindmingle/
+Wellora/
  ├── backend/
  ├── frontend/
 ```
@@ -79,8 +79,8 @@ mindmingle/
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/Gilmaan09/MindMingle.git
-cd MindMingle
+git clone https://github.com/Gilmaan09/Wellora.git
+cd Wellora
 ```
 
 ### 2. Backend

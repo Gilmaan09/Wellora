@@ -61,7 +61,7 @@ const Login = () => {
     {/* <div className="auth-page"> */}
       <div className="auth-card">
         <div className="auth-logo">
-          <h1>Mind<span>mingle</span></h1>
+          <h1>Wellora</h1>
           <p>Welcome back to your wellness journey</p>
         </div>
 
@@ -106,7 +106,7 @@ const Login = () => {
           fontSize: '0.9rem',
           color: 'var(--warm-gray)'
         }}>
-          New to Mindmingle?{' '}
+          New to Wellora?{' '}
           <Link
             to="/register"
             style={{ color: 'var(--sage)', fontWeight: '600' }}

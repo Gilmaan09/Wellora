@@ -41,7 +41,7 @@ app.use('/api/community', require('./routes/community'));
 app.use('/api/reminders', require('./routes/reminders'));
 
 // Health check
-app.get('/api/health', (req, res) => res.json({ status: 'OK', message: 'Mindmingle API running' }));
+app.get('/api/health', (req, res) => res.json({ status: 'OK', message: 'Wellora API running' }));
 
 // Connect to MongoDB
 mongoose.connect(process.env.MONGO_URI)

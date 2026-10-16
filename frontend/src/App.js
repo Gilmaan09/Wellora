@@ -59,7 +59,7 @@ const checkReminders = () => {
       )
     ) {
       if (Notification.permission === "granted") {
-        new Notification("MindMingle Reminder 🔔", {
+        new Notification("Wellora Reminder 🔔", {
           body: reminder.message,
         });
       }
